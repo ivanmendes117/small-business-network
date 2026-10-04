@@ -82,7 +82,7 @@ access-list 100 permit ip any any
 
 The ACL was applied inbound on the SALES VLAN interface.
 
-## 10.ACL Testing
+## 10. ACL Testing
 
 I tested the ACL using ping commands.
 

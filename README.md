@@ -1,5 +1,9 @@
 # Small Business Network
 
+## Network Topology
+
+![Small Business Network Topology](Screenshots/01-topology.png)
+
 ## Project Overview
 
 This project simulates a small business using Cisco Packet Tracer.
@@ -87,3 +91,7 @@ In this project I learned how to:
 - Use extended ACLs
 - Test network connectivity
 - Troubleshoot Cisco network configuration issues
+
+## Project Status
+
+Completed 
