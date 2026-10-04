@@ -87,8 +87,8 @@ The ACL was applied inbound on the SALES VLAN interface.
 I tested the ACL using ping commands.
 
 - SALES to ADMIN: Blocked successfully
-- SALES to IT: Allow successfully
+- SALES to IT: Allowed successfully
 
-The first ping to the IT network lost one packet while AP information was being learned.
+The first ping to the IT network lost one packet while ARP information was being learned.
 
 The second test was successful with 4 packets sent and 4 packets received.
